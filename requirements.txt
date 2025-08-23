@@ -9,4 +9,4 @@ pandas
 plotly
 scikit-learn
 xgboost
-Prophet
+prophet
