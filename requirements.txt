@@ -1,14 +1,12 @@
 streamlit
 pandas
 numpy
-scikit-learn
 plotly
+scikit-learn
 shap
 openpyxl
 xgboost
 prophet
 seaborn
 matplotlib
-SARIMAX
-altair
 statsmodels
